@@ -163,12 +163,3 @@ The project includes a `.gitignore` file that excludes:
 - `mvnw`, `mvnw.cmd` are included as they are needed to run Maven without a local installation
 
 ---
-
-## Screenshots
-
-> Place your screenshots in a folder called `screenshots/` in the root of the repository.
-
-| Screenshot | Description |
-|---|---|
-| `screenshots/greeting_default.png` | Browser showing `localhost:8080/greeting` with default name "Vistula" |
-| `screenshots/greeting_with_name.png` | Browser showing `localhost:8080/greeting?name=YourName` with custom name |
